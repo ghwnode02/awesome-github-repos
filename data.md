@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [JavaScript](#javascript)
+*   [Python](#python)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
@@ -16,43 +16,9 @@
 *   [C++](#c-1)
 *   [C](#c-2)
 
-## Python
-
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
-
-*   [homieyangg/cloudflare\_waf\_multi\_zone\_ci\_exmaple](https://github.com/homieyangg/cloudflare_waf_multi_zone_ci_exmaple) - Cloudflare WAF Auto-Update Tool
-
-*   [ethgan/yxip](https://github.com/ethgan/yxip) - 从一个提供优选ip的网站进行优选cf ip采集
-
-*   [SunsetMkt/Sunsetvault](https://github.com/SunsetMkt/Sunsetvault) - Builder for Sunsetvault extension.
-
-*   [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing) - 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
-
-*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
-
-*   [gacjie/cf2dns](https://github.com/gacjie/cf2dns) - cf2dns宝塔插件版
-
-*   [AkenClub/ken-iMoutai-Script](https://github.com/AkenClub/ken-iMoutai-Script) - 青龙脚本，完成 i茅台 预约申购、登录、短信验证码、耐力值和小茅运领取、旅行 等功能
-
-*   [dockkkk/api-cfcdn](https://github.com/dockkkk/api-cfcdn) -
-
-*   [mzjdy/MobaXterm-Keygen](https://github.com/mzjdy/MobaXterm-Keygen) - MobaXterm Keygen Originally by DoubleLabyrinth
-
-*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) - 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
-
-*   [crazypeace/huashengdun-webssh](https://github.com/crazypeace/huashengdun-webssh) - 增加生成sshlink功能，方便收藏，下次使用不需要输入密码。
-
-*   [sqlsec/termux-install-linux](https://github.com/sqlsec/termux-install-linux) - Termux一键安装Linux脚本
-
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-
-*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
-
 ## JavaScript
+
+*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 
 *   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
@@ -70,7 +36,7 @@
 
 *   [Troywww/sub\_house](https://github.com/Troywww/sub_house) -
 
-*   [eooce/nodejs-argo](https://github.com/eooce/nodejs-argo) - node环境通用项目，输出sub.txt文件和域名/sub订阅或域名:端口/sub订阅，也可访问查看节点信息;附带vps一键命令
+*   [eooce/nodejs-argo](https://github.com/eooce/nodejs-argo) - nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏玩具平台设计。它支持多种代理协议（VLESS、VMess、Trojan等），并集成了哪吒探针功能，支持npm install -g nodejs-argo一键安装包
 
 *   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/large file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3 aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
 
@@ -107,6 +73,40 @@
 *   [crazypeace/gh-proxy](https://github.com/crazypeace/gh-proxy) - github release、archive以及项目文件的加速项目. 支持 api.github.com, git.io 支持github脚本的无限嵌套调用
 
 *   [shiteThings/extractNodes](https://github.com/shiteThings/extractNodes) -
+
+## Python
+
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
+
+*   [homieyangg/cloudflare\_waf\_multi\_zone\_ci\_exmaple](https://github.com/homieyangg/cloudflare_waf_multi_zone_ci_exmaple) - Cloudflare WAF Auto-Update Tool
+
+*   [ethgan/yxip](https://github.com/ethgan/yxip) - 从一个提供优选ip的网站进行优选cf ip采集
+
+*   [SunsetMkt/Sunsetvault](https://github.com/SunsetMkt/Sunsetvault) - Builder for Sunsetvault extension.
+
+*   [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing) - 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
+
+*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
+
+*   [gacjie/cf2dns](https://github.com/gacjie/cf2dns) - cf2dns宝塔插件版
+
+*   [AkenClub/ken-iMoutai-Script](https://github.com/AkenClub/ken-iMoutai-Script) - 青龙脚本，完成 i茅台 预约申购、登录、短信验证码、耐力值和小茅运领取、旅行 等功能
+
+*   [dockkkk/api-cfcdn](https://github.com/dockkkk/api-cfcdn) -
+
+*   [mzjdy/MobaXterm-Keygen](https://github.com/mzjdy/MobaXterm-Keygen) - MobaXterm Keygen Originally by DoubleLabyrinth
+
+*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) - 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
+
+*   [crazypeace/huashengdun-webssh](https://github.com/crazypeace/huashengdun-webssh) - 增加生成sshlink功能，方便收藏，下次使用不需要输入密码。
+
+*   [sqlsec/termux-install-linux](https://github.com/sqlsec/termux-install-linux) - Termux一键安装Linux脚本
+
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ## Vue
 
