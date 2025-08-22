@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
-*   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [C#](#c)
 *   [Kotlin](#kotlin)
@@ -15,6 +15,34 @@
 *   [Java](#java)
 *   [C++](#c-1)
 *   [C](#c-2)
+
+## miscellaneous
+
+*   [MeeGooBoo/2025](https://github.com/MeeGooBoo/2025) - 被指危害GJ安全，我是一名00后程序员，在GitHub、YouTube上做技术分享，不到一个月，就遭受不明人士指控并派4~5人上门扣押断电断网，出门被跟随，我被迫转行送外卖，给大家分享外卖小哥的日常生活。还是那句话，攻防无绝对，技术无好坏，在非安全的信息时代，众人皆在囚笼之中，想搞你的人，你怎么隐藏怎么躲都没用！如需购买铂金、黄金、钻石相关奢侈品，请加我微信：Aioa700
+
+*   [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node availability, completely free. Free clash subscription address, free ss/v2ray/trojan node.
+
+*   [leafmoes/BitwardenPatch](https://github.com/leafmoes/BitwardenPatch) -
+
+*   [arkanpay/cfxhttp](https://github.com/arkanpay/cfxhttp) - vless xhttp cloudflare
+
+*   [lyming99/wenzdoc\_web](https://github.com/lyming99/wenzdoc_web) - 温知文档官网
+
+*   [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
+
+*   [Bowen-0x00/obsidian-excalidraw-plugin-ymjr](https://github.com/Bowen-0x00/obsidian-excalidraw-plugin-ymjr) -
+
+*   [Bowen-0x00/obsidian-excalidraw-scripts](https://github.com/Bowen-0x00/obsidian-excalidraw-scripts) -
+
+*   [wyx176/mockgps](https://github.com/wyx176/mockgps) - 虚拟定位、位置修改、支持最新安卓、支持ROOT、打卡、签到
+
+*   [lowercase78/V2RayN-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN-Pro
+
+*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
+
+*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
+
+*   [Meroser/IPTV](https://github.com/Meroser/IPTV) - 深度定制属于自己的直播源列表，\[完美EPG节目预告、高清台标]
 
 ## Python
 
@@ -152,8 +180,6 @@
 
 *   [radishes-music/radishes](https://github.com/radishes-music/radishes) - Cross-platform copyright-free music platform（跨平台的无版权的音乐平台）. 支持 windows / macos / linux / web
 
-*   [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
-
 ## HTML
 
 *   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
@@ -167,32 +193,6 @@
 *   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 
 *   [crazypeace/Url-Shorten-Worker](https://github.com/crazypeace/Url-Shorten-Worker) - 使用秘密路径访问操作页面. 支持自定义短链. API 不公开服务. 页面缓存设置过的短链. 长链接文本框预搜索localStorage. 增加删除某条短链的按钮. 增加读取KV的按钮. 支持QRcode二维码. 变身网络记事本 Pastebin. 变身图床 Image Hosting. 变身网络日记本. A URL Shortener created using Cloudflare worker and KV
-
-## miscellaneous
-
-*   [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node availability, completely free. Free clash subscription address, free ss/v2ray/trojan node.
-
-*   [leafmoes/BitwardenPatch](https://github.com/leafmoes/BitwardenPatch) -
-
-*   [arkanpay/cfxhttp](https://github.com/arkanpay/cfxhttp) - vless xhttp cloudflare
-
-*   [lyming99/wenzdoc\_web](https://github.com/lyming99/wenzdoc_web) - 温知文档官网
-
-*   [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
-
-*   [Bowen-0x00/obsidian-excalidraw-plugin-ymjr](https://github.com/Bowen-0x00/obsidian-excalidraw-plugin-ymjr) -
-
-*   [Bowen-0x00/obsidian-excalidraw-scripts](https://github.com/Bowen-0x00/obsidian-excalidraw-scripts) -
-
-*   [wyx176/mockgps](https://github.com/wyx176/mockgps) - 虚拟定位、位置修改、支持最新安卓、支持ROOT、打卡、签到
-
-*   [lowercase78/V2RayN-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN-Pro
-
-*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
-
-*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
-
-*   [Meroser/IPTV](https://github.com/Meroser/IPTV) - 深度定制属于自己的直播源列表，\[完美EPG节目预告、高清台标]
 
 ## Go
 
