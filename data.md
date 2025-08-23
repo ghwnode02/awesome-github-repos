@@ -34,7 +34,7 @@
 
 *   [Bowen-0x00/obsidian-excalidraw-scripts](https://github.com/Bowen-0x00/obsidian-excalidraw-scripts) -
 
-*   [wyx176/mockgps](https://github.com/wyx176/mockgps) - 虚拟定位、位置修改、支持最新安卓、支持ROOT、打卡、签到
+*   [wyx176/mockgps](https://github.com/wyx176/mockgps) - 虚拟定位、位置修改、支持最新安卓、支持ROOT
 
 *   [lowercase78/V2RayN-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN-Pro
 
