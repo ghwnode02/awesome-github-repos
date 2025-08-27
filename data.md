@@ -164,7 +164,7 @@
 
 *   [zaunist/xugou](https://github.com/zaunist/xugou) - XUGOU-基于CloudFlare的轻量化监控平台
 
-*   [graphif/project-graph](https://github.com/graphif/project-graph) - 🔥 Draw fast, think efficiently. | A simple tool for drawing graphs.
+*   [graphif/project-graph](https://github.com/graphif/project-graph) - A simple but powerful tool for drawing graphs
 
 *   [NeatChat/NeatChat](https://github.com/NeatChat/NeatChat) - 基于 NextChat 深度重构，一个更优雅、更强大的 AI 对话解决方案
 
