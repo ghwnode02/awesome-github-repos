@@ -196,7 +196,7 @@
 
 ## Go
 
-*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.
+*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 
 *   [DokiDoki1103/tikuAdapter](https://github.com/DokiDoki1103/tikuAdapter) - 大学生网课题库接口适配器：将不同的题库整合为一个API接口。
 
