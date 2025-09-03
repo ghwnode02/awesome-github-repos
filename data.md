@@ -18,7 +18,7 @@
 
 ## TypeScript
 
-*   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.1 通知：猛攻了一天，同时更新了一下DecoTV具体可见我的项目，发现bug越修越多心态有点炸了，最新的v0.4.0差不多就这样，后续的bug等我休息一下吧，遭不住了】
+*   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.2 通知：今日战绩---修复OrionTV视频源无法播放问题、添加视频源一键导入导出、修复fork仓库之后无法跟随更新---今天就这样了吧，休息了】
 
 *   [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
 
