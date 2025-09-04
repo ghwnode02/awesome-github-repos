@@ -18,7 +18,9 @@
 
 ## TypeScript
 
-*   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.2 通知：今日战绩---修复OrionTV视频源无法播放问题、添加视频源一键导入导出、修复fork仓库之后无法跟随更新---今天就这样了吧，休息了】
+*   [obsidian-community/obsidian-image-toolkit](https://github.com/obsidian-community/obsidian-image-toolkit) - An Obsidian plugin for viewing an image.
+
+*   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.3 通知：休息一段时间，近几天就不更新了，现在项目基本都没有什么大bug了，都能正常使用，更新的都是小问题和部分建议，感谢大家的支持！】
 
 *   [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
 
@@ -169,8 +171,6 @@
 *   [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器
 
 *   [crazypeace/gh-proxy](https://github.com/crazypeace/gh-proxy) - github release、archive以及项目文件的加速项目. 支持 api.github.com, git.io 支持github脚本的无限嵌套调用
-
-*   [shiteThings/extractNodes](https://github.com/shiteThings/extractNodes) -
 
 ## Vue
 
