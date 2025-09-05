@@ -20,7 +20,7 @@
 
 *   [obsidian-community/obsidian-image-toolkit](https://github.com/obsidian-community/obsidian-image-toolkit) - An Obsidian plugin for viewing an image.
 
-*   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.3 通知：休息一段时间，近几天就不更新了，现在项目基本都没有什么大bug了，都能正常使用，更新的都是小问题和部分建议，感谢大家的支持！】
+*   [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。
 
 *   [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
 
