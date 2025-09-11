@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
@@ -11,10 +12,19 @@
 *   [Go](#go)
 *   [C#](#c)
 *   [Kotlin](#kotlin)
-*   [Shell](#shell)
 *   [Java](#java)
 *   [C++](#c-1)
 *   [C](#c-2)
+
+## Shell
+
+*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
+
+*   [John-Wong/immersive-translate](https://github.com/John-Wong/immersive-translate) - 沉浸式翻译插件 Thunderbird 移植版本（旧）
+
+*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持最新的Xhttp传输协议，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
+
+*   [jing5460/MTProxy-TLS](https://github.com/jing5460/MTProxy-TLS) - MTProxy TLS 绿色版一键安装脚本
 
 ## TypeScript
 
@@ -52,7 +62,7 @@
 
 ## miscellaneous
 
-*   [MeeGooBoo/2025](https://github.com/MeeGooBoo/2025) - 被指危害GJ安全，我是一名00后程序员，在GitHub、YouTube上做技术分享，不到一个月，就遭受不明人士指控并派4~5人上门扣押断电断网，出门被跟随，我被迫转行送外卖，给大家分享外卖小哥的日常生活。还是那句话，攻防无绝对，技术无好坏，在非安全的信息时代，众人皆在囚笼之中，想搞你的人，你怎么隐藏怎么躲都没用！如需购买铂金、黄金、钻石相关奢侈品，请加我微信：Aioa700
+*   [MeeGooBoo/2025](https://github.com/MeeGooBoo/2025) - 被指危害GJ安全，我是一名00后程序员，在GitHub、YouTube上做技术分享，不到一个月，就遭受不明人士指控并派4~5人上门扣押断电断网，出门被跟随，我被迫转行送外卖，给大家分享外卖小哥的日常生活。还是那句话，攻防无绝对，技术无好坏，在非安全的信息时代，众人皆在囚笼之中，想搞你的人，你怎么隐藏怎么躲都没用！如需购买铂金、黄金、钻石相关珠宝首饰的，请加我微信：Aioa700
 
 *   [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node availability, completely free. Free clash subscription address, free ss/v2ray/trojan node.
 
@@ -112,11 +122,9 @@
 
 *   [sqlsec/termux-install-linux](https://github.com/sqlsec/termux-install-linux) - Termux一键安装Linux脚本
 
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-
 ## JavaScript
 
-*   [xixu-me/Xget](https://github.com/xixu-me/Xget) - 超高性能、安全的一站式开源资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-high-performance, secure, all-in-one acceleration engine for developer resource access. Its performance far exceeds that of traditional accelerators, providing you with a unified and efficient acceleration experience across multiple platforms
+*   [xixu-me/Xget](https://github.com/xixu-me/Xget) - 超高性能、安全的一站式开发者资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-high-performance, secure, all-in-one acceleration engine for developer resource access. Its performance far exceeds that of traditional accelerators, providing you with a unified and efficient acceleration experience across multiple platforms
 
 *   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 
@@ -221,14 +229,6 @@
 *   [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
 
 *   [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
-
-## Shell
-
-*   [John-Wong/immersive-translate](https://github.com/John-Wong/immersive-translate) - 沉浸式翻译插件 Thunderbird 移植版本（旧）
-
-*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持最新的Xhttp传输协议，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
-
-*   [jing5460/MTProxy-TLS](https://github.com/jing5460/MTProxy-TLS) - MTProxy TLS 绿色版一键安装脚本
 
 ## Java
 
