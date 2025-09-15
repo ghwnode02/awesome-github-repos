@@ -22,7 +22,7 @@
 
 *   [John-Wong/immersive-translate](https://github.com/John-Wong/immersive-translate) - 沉浸式翻译插件 Thunderbird 移植版本（旧）
 
-*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持最新的Xhttp传输协议，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
+*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持最新的Xhttp传输协议、ENC加密、MLDSA65加密，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
 
 *   [jing5460/MTProxy-TLS](https://github.com/jing5460/MTProxy-TLS) - MTProxy TLS 绿色版一键安装脚本
 
@@ -44,7 +44,7 @@
 
 *   [zaunist/xugou](https://github.com/zaunist/xugou) - XUGOU-基于CloudFlare的轻量化监控平台
 
-*   [graphif/project-graph](https://github.com/graphif/project-graph) - A simple but powerful tool for drawing graphs
+*   [graphif/project-graph](https://github.com/graphif/project-graph) - A node-based visual tool for organizing thoughts and notes in a non-linear way.
 
 *   [NeatChat/NeatChat](https://github.com/NeatChat/NeatChat) - 基于 NextChat 深度重构，一个更优雅、更强大的 AI 对话解决方案
 
