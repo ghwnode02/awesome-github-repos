@@ -102,8 +102,6 @@
 
 *   [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing) - 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
 
-*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
-
 *   [gacjie/cf2dns](https://github.com/gacjie/cf2dns) - cf2dns宝塔插件版
 
 *   [AkenClub/ken-iMoutai-Script](https://github.com/AkenClub/ken-iMoutai-Script) - 青龙脚本，完成 i茅台 预约申购、登录、短信验证码、耐力值和小茅运领取、旅行 等功能
@@ -197,6 +195,8 @@
 *   [Yuzc-001/Clipboard](https://github.com/Yuzc-001/Clipboard) - Liquid Clipboard
 
 *   [ykxVK8yL5L/spaces](https://github.com/ykxVK8yL5L/spaces) - Huggingface的一些space代码
+
+*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
 
 *   [beef-potato/MusicFreeThemes](https://github.com/beef-potato/MusicFreeThemes) - 自己写的MusicFree的一些主题包
 
