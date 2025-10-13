@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
-*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [HTML](#html)
@@ -15,6 +15,40 @@
 *   [Java](#java)
 *   [C++](#c-1)
 *   [C](#c-2)
+
+## Python
+
+*   [Eilte/Mobaxterm-Chinese](https://github.com/Eilte/Mobaxterm-Chinese) - Mobaxterm simplified Chinese version. Mobaxterm 的简体中文版.
+
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+
+*   [homieyangg/cloudflare\_waf\_multi\_zone\_ci\_exmaple](https://github.com/homieyangg/cloudflare_waf_multi_zone_ci_exmaple) - Cloudflare WAF Auto-Update Tool
+
+*   [ethgan/yxip](https://github.com/ethgan/yxip) - 从一个提供优选ip的网站进行优选cf ip采集
+
+*   [SunsetMkt/Sunsetvault](https://github.com/SunsetMkt/Sunsetvault) - Builder for Sunsetvault extension.
+
+*   [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing) - 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
+
+*   [gacjie/cf2dns](https://github.com/gacjie/cf2dns) - cf2dns宝塔插件版
+
+*   [AkenClub/ken-iMoutai-Script](https://github.com/AkenClub/ken-iMoutai-Script) - 青龙脚本，完成 i茅台 预约申购、登录、短信验证码、耐力值和小茅运领取、旅行 等功能
+
+*   [dockkkk/api-cfcdn](https://github.com/dockkkk/api-cfcdn) -
+
+*   [mzjdy/MobaXterm-Keygen](https://github.com/mzjdy/MobaXterm-Keygen) - MobaXterm Keygen Originally by DoubleLabyrinth
+
+*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) - 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
+
+*   [crazypeace/huashengdun-webssh](https://github.com/crazypeace/huashengdun-webssh) - 增加生成sshlink功能，方便收藏，下次使用不需要输入密码。
+
+*   [sqlsec/termux-install-linux](https://github.com/sqlsec/termux-install-linux) - Termux一键安装Linux脚本
 
 ## Shell
 
@@ -58,8 +92,6 @@
 
 *   [juejijianghuaa/MusicFreePlugins](https://github.com/juejijianghuaa/MusicFreePlugins) -
 
-*   [radishes-music/radishes](https://github.com/radishes-music/radishes) - Cross-platform copyright-free music platform（跨平台的无版权的音乐平台）. 支持 windows / macos / linux / web
-
 ## miscellaneous
 
 *   [MeeGooBoo/2025](https://github.com/MeeGooBoo/2025) - 被指危害GJ安全，我是一名00后程序员，在GitHub、YouTube上做技术分享，不到一个月，就遭受不明人士指控并派4~5人上门扣押断电断网，出门被跟随，我被迫转行送外卖，给大家分享外卖小哥的日常生活。还是那句话，攻防无绝对，技术无好坏，在非安全的信息时代，众人皆在囚笼之中，想搞你的人，你怎么隐藏怎么躲都没用！如需购买铂金、黄金、钻石相关珠宝首饰的，请加我微信：Aioa700
@@ -87,38 +119,6 @@
 *   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
 
 *   [Meroser/IPTV](https://github.com/Meroser/IPTV) - 深度定制属于自己的直播源列表，\[完美EPG节目预告、高清台标]
-
-## Python
-
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
-
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
-
-*   [homieyangg/cloudflare\_waf\_multi\_zone\_ci\_exmaple](https://github.com/homieyangg/cloudflare_waf_multi_zone_ci_exmaple) - Cloudflare WAF Auto-Update Tool
-
-*   [ethgan/yxip](https://github.com/ethgan/yxip) - 从一个提供优选ip的网站进行优选cf ip采集
-
-*   [SunsetMkt/Sunsetvault](https://github.com/SunsetMkt/Sunsetvault) - Builder for Sunsetvault extension.
-
-*   [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing) - 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
-
-*   [gacjie/cf2dns](https://github.com/gacjie/cf2dns) - cf2dns宝塔插件版
-
-*   [AkenClub/ken-iMoutai-Script](https://github.com/AkenClub/ken-iMoutai-Script) - 青龙脚本，完成 i茅台 预约申购、登录、短信验证码、耐力值和小茅运领取、旅行 等功能
-
-*   [dockkkk/api-cfcdn](https://github.com/dockkkk/api-cfcdn) -
-
-*   [mzjdy/MobaXterm-Keygen](https://github.com/mzjdy/MobaXterm-Keygen) - MobaXterm Keygen Originally by DoubleLabyrinth
-
-*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) - 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
-
-*   [crazypeace/huashengdun-webssh](https://github.com/crazypeace/huashengdun-webssh) - 增加生成sshlink功能，方便收藏，下次使用不需要输入密码。
-
-*   [sqlsec/termux-install-linux](https://github.com/sqlsec/termux-install-linux) - Termux一键安装Linux脚本
 
 ## JavaScript
 
