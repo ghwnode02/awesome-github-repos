@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [Shell](#shell)
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -16,11 +16,23 @@
 *   [C++](#c-1)
 *   [C](#c-2)
 
+## Shell
+
+*   [shuaidaoya/FreeNodes](https://github.com/shuaidaoya/FreeNodes) - 每30分钟自动更新🤖，支持v2ray、clash等各种代理软件，利用SubsCheck-Win-GUI自动从节点池爬取免费节点分享
+
+*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
+
+*   [John-Wong/immersive-translate](https://github.com/John-Wong/immersive-translate) - 沉浸式翻译插件 Thunderbird 移植版本（旧）
+
+*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持最新的Xhttp传输协议、ENC加密、MLDSA65加密，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
+
+*   [jing5460/MTProxy-TLS](https://github.com/jing5460/MTProxy-TLS) - MTProxy TLS 绿色版一键安装脚本
+
 ## Python
 
 *   [Eilte/Mobaxterm-Chinese](https://github.com/Eilte/Mobaxterm-Chinese) - Mobaxterm simplified Chinese version. Mobaxterm 的简体中文版.
 
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；推流；IPv4/IPv6；接口验效；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 
 *   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 
@@ -49,16 +61,6 @@
 *   [crazypeace/huashengdun-webssh](https://github.com/crazypeace/huashengdun-webssh) - 增加生成sshlink功能，方便收藏，下次使用不需要输入密码。
 
 *   [sqlsec/termux-install-linux](https://github.com/sqlsec/termux-install-linux) - Termux一键安装Linux脚本
-
-## Shell
-
-*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
-
-*   [John-Wong/immersive-translate](https://github.com/John-Wong/immersive-translate) - 沉浸式翻译插件 Thunderbird 移植版本（旧）
-
-*   [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持最新的Xhttp传输协议、ENC加密、MLDSA65加密，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
-
-*   [jing5460/MTProxy-TLS](https://github.com/jing5460/MTProxy-TLS) - MTProxy TLS 绿色版一键安装脚本
 
 ## TypeScript
 
@@ -142,7 +144,7 @@
 
 *   [Troywww/sub\_house](https://github.com/Troywww/sub_house) -
 
-*   [eooce/nodejs-argo](https://github.com/eooce/nodejs-argo) - nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏玩具平台设计。它支持多种代理协议（VLESS、VMess、Trojan等），并集成了哪吒探针功能，支持npm install -g nodejs-argo一键安装包
+*   [eooce/nodejs-argo](https://github.com/eooce/nodejs-argo) - nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏玩具平台设计。它支持多种代理协议（VLESS、VMess、Trojan等），并集成了哪吒探针功能，支持npm install nodejs-argo一键安装包
 
 *   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/large file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3 aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
 
@@ -213,8 +215,6 @@
 *   [6Kmfi6HP/CF-Worker-Socks](https://github.com/6Kmfi6HP/CF-Worker-Socks) - A socks5 proxy server deployed on the Cloudflare Worker
 
 *   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
-
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 
 ## C\#
 
